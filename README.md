@@ -1,1 +1,1 @@
-# App-Review-Detection
+# App-Review-RatingDetection
